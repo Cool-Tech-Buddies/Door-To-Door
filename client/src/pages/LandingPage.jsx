@@ -15,7 +15,7 @@ function LandingPage() {
           </div>
           <div className="flex flex-row-reverse mr-8 hidden md:flex">
             <div className="text-gray-700 text-center outline-blue-500 outline-2  px-4 py-2 m-2">Log in</div>
-            <div className="text-white text-center bg-blue-600 px-4 py-2 m-2 rounded-md">Signup</div>
+            <div className="text-white text-center bg-blue-600 px-4 py-2 m-2 rounded-md">Sign up</div>
           </div>
         </div>
       </div>
