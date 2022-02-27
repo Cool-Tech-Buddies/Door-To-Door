@@ -8,7 +8,7 @@ function LandingPage() {
         {/* This is an example component */}
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" rel="stylesheet" />
         <div className="w-screen flex flex-row items-center p-2 justify-between bg-white shadow-xs">
-          <div className="ml-8 text-lg text-gray-700 hidden md:flex">DOOR TO DOOR</div>
+          <div className="ml-8 text-lg text-gray-700 hidden md:flex">DOOR 2 DOOR</div>
           
           <div className="flex flex-row-reverse mr-4 ml-4 md:hidden">
             <i className="fas fa-bars" />
